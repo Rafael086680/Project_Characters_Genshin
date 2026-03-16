@@ -62,17 +62,15 @@ Este projeto foi desenvolvido utilizando:
 
 ```
 /projeto
-│
-├── index.html
-├── Ayaka.html
-│
-├── css
+├── Home
 │   └── style.css
-│
-├── js
-│   └── script.js
-│
-├── imagens
+│   └── index.html
+|   └── script.js
+|
+├── Personagens
+|   └── style.css
+│   └── Ayaka.html
+|   └── personagem.html
 │
 └── README.md
 ```
