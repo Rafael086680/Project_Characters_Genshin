@@ -1,6 +1,3 @@
-# Project_Characters_Genshin
-Protótipo de aplicativo/site feito com HTML, CSS e JavaScript para visualizar informações de personagens do Genshin Impact, incluindo builds, times e detalhes. (Em desenvolvimento)
-
 # 🎮 Genshin Impact Character Guide (Protótipo)
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
