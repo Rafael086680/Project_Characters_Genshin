@@ -55,7 +55,7 @@ body{
 /* CONTAINER */
 
 .container{
-  padding: 40px;
+  padding: 30px;
   max-width: 1200px;
   margin: auto;
 }
@@ -155,10 +155,10 @@ body{
 }
 
 .card-image img{
-  height: 500px;
+  height: 400px;
   width: auto;
   object-fit: contain;
-  transform: translateY(40px) scale(1.08);
+  transform: translateY(40px) scale(1.05);
   filter: drop-shadow(0 18px 30px rgba(28, 42, 98, 0.28));
 }
 
