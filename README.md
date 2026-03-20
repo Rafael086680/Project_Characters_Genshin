@@ -61,18 +61,7 @@ Este projeto foi desenvolvido utilizando:
 # 📂 Estrutura do projeto
 
 ```
-/projeto
-├── Home
-│   └── style.css
-│   └── index.html
-|   └── script.js
-|
-├── Personagens
-|   └── style.css
-│   └── Ayaka.html
-|   └── personagem.html
-│
-└── README.md
+
 ```
 
 Cada personagem pode possuir sua própria página contendo informações como:
