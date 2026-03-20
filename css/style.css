@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  font-family: Segoe UI;
+  background: #f3f5f9;
+}
+
+/* NAVBAR */
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+  background: white;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+} 
+
+.buttons{
+  cursor: pointer;
+}
+
+.logo{
+  cursor: pointer;
+}
+
+.navbar nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #555;
+}
+
+.buttons button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 10px;
+
+  cursor: pointer;
+}
+
+.signup {
+  background: #6c79ff;
+  color: white;
+}
+
+/* CONTAINER */
+
+.container {
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* CARD GRANDE */
+
+.card-main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-image: url("jaja.jpg");
+  background-size: contain;     
+  background-repeat: no-repeat; 
+  background-position: center;  
+  padding: 40px;
+  border-radius: 100px;
+}
+
+.card-text {
+  color: rgb(205, 115, 95);
+}
+
+.card-imagem {
+  height: 200px;
+}
+
+/* CARDS */
+
+.cards {
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
