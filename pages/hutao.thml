@@ -1,1 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ayaka</title>
+<link rel="stylesheet" href="../css/stylep.css">
+</head>
+<body>
 
+  <header class="navbar">
+    <div class="logo">Home</div>
+
+    <nav>
+      <a href="#">Personagem</a> 
+      <a href="#">Times</a>
+      <a href="#">Builds</a>
+    </nav>
+
+    <div class="buttons">
+      <button class="login">Log in</button>
+      <button class="signup">Sign up</button>
+    </div>
+  </header>
+
+  <div class="container">
+
+    <div class="card-main">
+      <div class="card-text">
+        <span class="tag">Pyro • Polearm</span>
+        <h1>Hutao</h1>
+        <p>
+        Hu Tao é a 77ª diretora da Funerária Wangsheng em Liyue, conhecida por sua personalidade excêntrica, brincalhona e por vezes sombria, equilibrando o respeito pelos mortos com um comportamento infantil. Ela assumiu a liderança da funerária ainda jovem, após a morte de seu avô, consolidando o negócio e mudando a percepção dos moradores sobre funerais.
+        </p>
+
+        <div class="card-actions">
+          <button class="btn-primary">Read More</button>
+          <button class="btn-secondary">Build Guide</button>
+        </div>
+      </div>
+
+      <div class="card-image">
+        <img src="../assets/images/hutao/hutaobanner.png" alt="hutaobanner">
+      </div>
+    </div>
+
+<div class="cards"> 
+  <div class="cima">
+    <div class="options">
+      <div class="card1">
+        <h3>Times</h3>
+      </div>
+      <div class="card2">
+        <h3>Builds</h3>
+      </div>
+      <div class="card6">
+        <h3>Sinergia</h3>
+      </div>
+    </div>
+    <div class="more">
+    </div>
+   </div>
+   
+   <div class="meio">
+   </div>
+   
+   <div class="baixo">
+    <div class="card3">
+      <div>
+        <h3>Pyro Character</h3>
+        <p>Pyro com foco em dano e reação de vaporizar.</p>
+      </div>
+      <div>
+        <img src="" alt="Pyro">
+      </div>
+    </div>
+
+      <div class="card4">
+        <div>
+         <h3>Liyue</h3>
+         <p>asdasd.</p>
+        </div>
+        <div>
+          <img src="" alt="Liyue">
+        </div>
+      </div>
+
+      <div class="card5">
+        <div>
+        <h3>Hutao clan</h3>
+        <p>ghghgh</p>
+        </div>
+        <div>
+          <img src="" alt="kamisatoclan">
+        </div>
+      </div>
+
+   </div>
+      
+</div>
+
+</body>
+</html>
