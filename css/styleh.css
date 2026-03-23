@@ -48,7 +48,7 @@ body{
 }
 
 .signup{
-  background: #7f8fdc;
+  background: #971d1d;
   color: white;
 }
 
@@ -72,7 +72,7 @@ body{
   border-radius: 32px;
   overflow: visible;
   background:
-    linear-gradient(120deg, rgba(131,155,234,0.95), rgba(180,198,255,0.92)),
+    linear-gradient(120deg, rgba(185, 55, 55, 0.95), rgba(132, 10, 10, 0.92)),
     url("jaja.jpg") center/cover no-repeat;
   box-shadow: 0 20px 40px rgba(112, 132, 215, 0.20);
 }
@@ -196,7 +196,7 @@ body{
 .card1{
   background: 
     linear-gradient(to top, rgba(51, 31, 39, 0.8), transparent),
-    url("../assets/images/ayaka/ayaka1.jpg");
+    url("../assets/images/");
   background-size: cover;
   padding: 24px;
   border-radius: 22px;
@@ -212,7 +212,7 @@ body{
 .card2{
   background: 
     linear-gradient(to top, rgba(17, 24, 40, 0.8), transparent),
-    url("../assets/images/ayaka/ayaka2.jpg");
+    url("../assets/images/");
   background-size: cover;
   padding: 24px;
   border-radius: 22px;
@@ -228,7 +228,7 @@ body{
 .card6{
   background: 
     linear-gradient(to top, rgba(17, 24, 40, 0.8), transparent),
-    url("../assets/images/ayaka/ayaka3.jpg");
+    url("../assets/images/");
   background-size: cover;
   padding: 24px;
   border-radius: 22px;
