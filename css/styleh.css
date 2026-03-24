@@ -197,7 +197,7 @@ body{
 
 .card1{
   background: 
-    linear-gradient(to top, rgba(51, 31, 39, 0.8), transparent),
+    linear-gradient(to top, rgba(0, 0, 0, 0.863), transparent),
     url("../assets/images/hutao/hutao1.jpg");
   background-size: cover;
   padding: 24px;
@@ -213,7 +213,7 @@ body{
 
 .card2{
   background: 
-    linear-gradient(to top, rgba(17, 24, 40, 0.8), transparent),
+    linear-gradient(to top, rgba(35, 26, 26, 0.8), transparent),
     url("../assets/images/hutao/hutao4.jpg");
   background-size: cover;
   padding: 24px;
@@ -229,7 +229,7 @@ body{
 
 .card6{
   background: 
-    linear-gradient(to top, rgba(17, 24, 40, 0.8), transparent),
+    linear-gradient(to top, rgba(8, 8, 8, 0.8), transparent),
     url("../assets/images/hutao/hutao2.jpg");
   background-size: cover;
   padding: 24px;
