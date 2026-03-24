@@ -298,7 +298,16 @@ body{
 .card6 h3{
   text-align: center;
   color:white;
-  margin-bottom: 01px
+  margin-bottom: 01px;
+  cursor: pointer;
+      transition: color 0.3s; /* Suaviza a mudança */
+}
+
+.card1 h3:hover,
+.card2 h3:hover,
+.card6 h3:hover{
+      color: rgb(219, 127, 127); /* Cor ao passar o mouse */
+
 }
 
 .card5 h3{
