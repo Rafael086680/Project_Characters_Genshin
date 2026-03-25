@@ -11,7 +11,7 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 20px 50px;
-  background: white;
+  background: rgb(255, 255, 255);
   box-shadow: 0 5px 20px rgba(0,0,0,0.1);
 } 
 
@@ -61,12 +61,15 @@ body {
   background-repeat: no-repeat; 
   background-position: center;  
   padding: 40px;
-  border-radius: 100px;
+  border-radius: 30px;
+  background-color: rgba(114, 128, 130, 0.837);
 }
 
 .card-text {
-  color: rgb(205, 115, 95);
-}
+  position: relative;
+  z-index: 2;
+  max-width: 520px;
+  color: rgb(0, 0, 0);}
 
 .card-imagem {
   height: 200px;
