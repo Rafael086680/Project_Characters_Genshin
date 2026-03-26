@@ -73,7 +73,7 @@ Cada personagem pode possuir sua própria página contendo informações como:
 
 ---
 
-# 🎯 Objetivo do projeto
+# Objetivo do projeto
 
 Este projeto foi criado para praticar:
 
@@ -87,7 +87,7 @@ Além disso, o projeto simula a estrutura de um **site de guia de personagens de
 
 ---
 
-# 🔮 Melhorias futuras
+# Melhorias futuras
 
 Algumas melhorias planejadas:
 
