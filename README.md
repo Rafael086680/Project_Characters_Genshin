@@ -1,4 +1,4 @@
-# 🎮 Genshin Impact Character Guide (Protótipo)
+# Genshin Impact Character Guide (Protótipo)
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge\&logo=css3)
@@ -7,7 +7,7 @@
 
 ---
 
-# 📖 Sobre o projeto
+# Sobre o projeto
 
 Este projeto é um **protótipo de aplicativo/site** desenvolvido utilizando **HTML, CSS e JavaScript** com o objetivo de apresentar informações sobre personagens do jogo **Genshin Impact**.
 
@@ -21,11 +21,11 @@ A proposta é criar uma interface visual moderna onde os usuários possam consul
 
 O projeto também serve como **prática de desenvolvimento web e organização de projetos frontend**.
 
-⚠️ **Este projeto ainda está em desenvolvimento.**
+**Este projeto ainda está em desenvolvimento.**
 
 ---
 
-# 🖼 Preview
+# Preview
 
 Sem preview ( ainda em desenvolvimento )
 ```
@@ -34,17 +34,17 @@ Sem preview ( ainda em desenvolvimento )
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 Atualmente o projeto possui:
 
-* 📄 Página dedicada para personagens
-* 🧊 Informações básicas do personagem
-* 🧩 Seções organizadas em **cards**
-* ⚔️ Área para **builds recomendadas**
-* 👥 Área para **times recomendados**
-* 🧭 Navegação entre páginas
-* 🎨 Interface moderna baseada em cards
+* Página dedicada para personagens
+* Informações básicas do personagem
+* Seções organizadas em **cards**
+* Área para **builds recomendadas**
+* Área para **times recomendados**
+* Navegação entre páginas
+* Interface moderna baseada em cards
 
 ---
 
