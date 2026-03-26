@@ -48,7 +48,7 @@ Atualmente o projeto possui:
 
 ---
 
-# 🛠 Tecnologias utilizadas
+# Tecnologias utilizadas
 
 Este projeto foi desenvolvido utilizando:
 
