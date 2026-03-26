@@ -91,23 +91,23 @@ Além disso, o projeto simula a estrutura de um **site de guia de personagens de
 
 Algumas melhorias planejadas:
 
-* ➕ Adicionar mais personagens
-* 🔎 Criar sistema de busca
-* 📱 Melhorar responsividade
-* 📊 Adicionar mais detalhes sobre builds
-* 🔗 Possível integração com APIs do jogo
-* 🎨 Melhorar ainda mais a interface
+* Adicionar mais personagens
+* Criar sistema de busca
+* Melhorar responsividade
+* Adicionar mais detalhes sobre builds
+* Possível integração com APIs do jogo
+* Melhorar ainda mais a interface
 
 ---
 
 # 📌 Status do projeto
 
-🚧 **Projeto em desenvolvimento**
+**Projeto em desenvolvimento**
 
 Novas funcionalidades e melhorias serão adicionadas futuramente.
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 Projeto desenvolvido por **Rafael Rodrigues Antonio**.
