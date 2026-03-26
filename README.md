@@ -29,7 +29,6 @@ O projeto também serve como **prática de desenvolvimento web e organização d
 
 Sem preview ( ainda em desenvolvimento )
 ```
-![Preview do projeto](preview.png)
 ```
 
 ---
