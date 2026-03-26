@@ -58,7 +58,7 @@ Este projeto foi desenvolvido utilizando:
 
 ---
 
-# 📂 Estrutura do projeto
+# Estrutura do projeto
 
 ```
 
