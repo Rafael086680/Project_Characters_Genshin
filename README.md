@@ -100,7 +100,7 @@ Algumas melhorias planejadas:
 
 ---
 
-# 📌 Status do projeto
+# Status do projeto
 
 **Projeto em desenvolvimento**
 
