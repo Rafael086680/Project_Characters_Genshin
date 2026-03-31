@@ -1,4 +1,4 @@
-body{
+body {
   margin: 0;
   font-family: Segoe UI;
   background: #f3f5f9;
@@ -6,7 +6,7 @@ body{
 
 /* NAVBAR */
 
-.navbar{
+.navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
