@@ -27,11 +27,15 @@ body{
   font-size: 15px;
 }
 
-.navbar nav a{
+.op button{
   margin: 0 15px;
+  padding: 10px 18px;
   text-decoration: none;
-  color: #555;
-  font-weight: 500;
+  color: #000000;
+  font-weight: 600;
+  justify-content: space-between;
+  background-color: white;
+  border: 1px solid white;
 }
 
 .buttons button{
